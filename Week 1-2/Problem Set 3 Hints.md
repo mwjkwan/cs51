@@ -20,8 +20,8 @@ This document provides a few conceptual as well as design hints for Problem Set 
 - Now, what will you do if the true sum is actually negative?
 
 4.  `times`
-- Again, think about powers of `cBASE`. It’s helpful to look at an example of the grade-school algorithm for multiplication. The only thing that changed is that `cBASE` is no longer $10$; it’s $1000$. How can you use your intuition from grade school to solve this problem in a similar way?
-- In the grade school algorithm, multiplying a $n$-digit number by a $m$-digit takes $n \cdot m$ multiplications of digits, added together. Is there a natural way you could break these $n \cdot m$ operations into chunks? (Don’t be afraid of helper functions for this one.)
+- Again, think about powers of `cBASE`. It’s helpful to look at an example of the grade-school algorithm for multiplication. The only thing that changed is that `cBASE` is no longer `10`; it’s `1000`. How can you use your intuition from grade school to solve this problem in a similar way?
+- In the grade school algorithm, multiplying a *n*-digit number by a *m*-digit takes _n * m_ multiplications of digits, added together. Is there a natural way you could break these _n * m_ operations into chunks? (Don’t be afraid of helper functions for this one.)
 -  `1,234,057 * 1000 = 1,234,057,000` is equivalent to `[1; 234; 057] * 1000 = [1; 234; 057; 0]` for `cBASE = 1000`.
 -  What’s the sign when you multiply by 0?
 
