@@ -1,5 +1,7 @@
-# [Code Review 2](https://docs.google.com/presentation/d/1aOlll20latEGnH5XK7dy_M9IeQARdhGJH3_iy2zdXXg/edit?usp=sharing)
+# [Code Review 1](https://docs.google.com/presentation/d/1aOlll20latEGnH5XK7dy_M9IeQARdhGJH3_iy2zdXXg/edit?usp=sharing)
 Melissa Kwan, mkwan@college.harvard.edu
+
+Since we merged Code Reviews 1 and 2, here are some additional CR 2-focused problems.
 
 ## Polymorphic types
 Write functions / expressions that will evaluate to the given type.
