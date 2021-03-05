@@ -14,7 +14,7 @@ Date: 2/12
 
 
 ### [Code Review 3: Abstract Data Types, Nested Data Structures](https://docs.google.com/presentation/d/1g1-_pPfhX_vXIYaxm2dDpUzpyYwAcajBYQaLyq5U12E/edit)
-Date: 2/12
+Date: 2/19
 
 -   Software design and style
 -   Algebraic types, records, etc.
@@ -22,12 +22,24 @@ Date: 2/12
 
 
 ### [Code Review 4: Modules, Functors, and Priority Queues](https://docs.google.com/presentation/d/1EpOdRNeEl9Httj0a2DEqm87wgC-FogJZuMr3o_CaMdg)
-Date: 2/12
+Date: 2/26
 
 -   Design and style for PSET 4
 -   Preparation for PSET 5
 	-   Modules and functors
 	-   Priority queues
+
+
+### [Code Review 5: Semantics, Time Complexity, Midterm Review]
+Date: 3/5
+
+- The long game: preparation for final project
+	- Substitution, evaluation, free variables
+- The medium game: Midterm I
+	- Module and functor problems
+	- Tree problems
+- The short game: PSET 5
+	- Thinking through trees
 
 
 
