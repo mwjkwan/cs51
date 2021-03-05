@@ -30,7 +30,7 @@ Date: 2/26
 	-   Priority queues
 
 
-### [Code Review 5: Semantics, Time Complexity, Midterm Review]
+### [Code Review 5: Semantics, Time Complexity, Midterm Review](https://docs.google.com/presentation/d/1hf9JQ0o9XVcMO4f0m33p1Jb0CUDL2gaNC_u2lHg2aiI)
 Date: 3/5
 
 - The long game: preparation for final project
