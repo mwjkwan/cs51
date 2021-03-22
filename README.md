@@ -42,4 +42,11 @@ Date: 3/5
 	- Thinking through trees
 
 
+### [Code Review 6: Midterm Review](https://docs.google.com/presentation/d/1jGLgRfXE8KeR0MmNG0vcLoevHoVGl78sh276j52gUfs/edit?usp=sharing)
+Date: 3/12
+
+### [Code Review 7: Imperative Programming](https://docs.google.com/presentation/d/1nIoF10s7ztrC92uIqby6jDCY0PJSJDPJNX-6Dz31FNE/edit?usp=sharing)
+Date: 3/26
+
+
 
