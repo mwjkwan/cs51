@@ -45,8 +45,17 @@ Date: 3/5
 ### [Code Review 6: Midterm Review](https://docs.google.com/presentation/d/1jGLgRfXE8KeR0MmNG0vcLoevHoVGl78sh276j52gUfs/edit?usp=sharing)
 Date: 3/12
 
-### [Code Review 7: Imperative Programming](https://docs.google.com/presentation/d/1nIoF10s7ztrC92uIqby6jDCY0PJSJDPJNX-6Dz31FNE/edit?usp=sharing)
+### [Code Review 7: Imperative Programming](https://docs.google.com/presentation/d/1uX_77sRoYaRtC1vrPFZOTkT7NvSH76KqbBF51r50uQI/edit?usp=sharing)
 Date: 3/26
-
+- Imperative vs. functional programming
+	- Recursive -> tail recursive -> iterative
+- References
+	- Assignment, dereferencing, single semicolon
+	- Tricky type questions
+- Creating lists using references
+- Scope, exemplified by `remember`
+	- Why does scoping work?
+	- Prototypical questions: remember, gensym, etc.
+- PSET 6 preview: Depth-first search (DFS), breadth-first search (BFS)**
 
 
