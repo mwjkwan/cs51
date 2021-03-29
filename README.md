@@ -56,6 +56,15 @@ Date: 3/26
 - Scope, exemplified by `remember`
 	- Why does scoping work?
 	- Prototypical questions: remember, gensym, etc.
-- PSET 6 preview: Depth-first search (DFS), breadth-first search (BFS)**
+- PSET 6 preview: Depth-first search (DFS), breadth-first search (BFS)
+
+### [Code Review 8: Lazy computation & infinite data structures](https://docs.google.com/presentation/d/1bFFog79wbnhLw0FG2kNx6-MBf5ZCOFrjHO4toEEGGGc/edit?usp=sharing)
+- The big picture: Lazy vs. eager computation
+- Infinite Streams: Naive implementation
+- Infinite Streams: Native Lazy implementation
+	- Why is OCaml’s Lazy better than the naive implementation?
+		- Thunks & Memoization
+- PSET 7 preview
+	- Practice problems
 
 
