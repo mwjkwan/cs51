@@ -67,4 +67,14 @@ Date: 3/26
 - PSET 7 preview
 	- Practice problems
 
+### [Code Review 9: Object-oriented programming](https://docs.google.com/presentation/d/1NV8o5z4iKHR3H0-sh11P8VG7W3606bIL4H36B6m88WI/edit?usp=sharing)
+- The big picture: When does it make sense to use object-oriented programming?
+- Helpful properties of object-oriented programming
+	- Inheritance
+	- Subtyping
+- Specific tips
+	- Private methods & overriding methods
+	- Named arguments, optional / default arguments
+- Zooming out: What should you do when you have a software project?
+
 
