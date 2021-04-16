@@ -77,4 +77,17 @@ Date: 3/26
 	- Named arguments, optional / default arguments
 - Zooming out: What should you do when you have a software project?
 
+### [Code Review 10: Environment Semantics](https://docs.google.com/presentation/d/1nVA5Ce3MoH1aIR7IS47UAbLKy18-P_qhuu4MLSyS3bA/edit?usp=sharing)
+- See the 10 folder for notes.
+- The Substitution Model (Ch. 13)
+	- Free variables
+	- Substitution
+	- Evaluation with the substitution model
+- The Environment Model (Ch. 19)
+	- Dynamic scope
+	- Lexical scope
+	- Augmenting lexical scope with stores
+- Structure of the final project
+
+
 
