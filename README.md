@@ -7,6 +7,7 @@ Date: 2/4
 -   Why CS 51?
 -   Partial application
 -   Motivating polymorphic types
+-   General course advice
 
 ### [Code Review 2: Types, Higher-Order Functions, and Options](https://docs.google.com/presentation/d/1hVW815JXHCMnEk8xnKJAYbA8AIJDUUtnuPeylHaJrBM/edit?usp=sharing)
 Date: 2/11
@@ -17,4 +18,4 @@ Date: 2/11
 	-   Write `map` using `fold`
 -   Motivating polymorphic types
 -   Options (`Some` and `None`)
--   General course advice
+
