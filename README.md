@@ -19,3 +19,13 @@ Date: 2/11
 -   Motivating polymorphic types
 -   Options (`Some` and `None`)
 
+
+### [Code Review 3: Algebraic Data Types, Nested Data Structures](https://docs.google.com/presentation/d/1g1-_pPfhX_vXIYaxm2dDpUzpyYwAcajBYQaLyq5U12E/edit?usp=sharing)
+Date: 2/18
+
+- Software design and style
+- Algebraic types, records, etc.
+- Trees and nested data structures
+- Intuition on PSET 3
+
+
