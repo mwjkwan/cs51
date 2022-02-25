@@ -28,4 +28,10 @@ Date: 2/18
 - Trees and nested data structures
 - Intuition on PSET 3
 
+### [Code Review 4: Modules and Functors](https://docs.google.com/presentation/d/1EpOdRNeEl9Httj0a2DEqm87wgC-FogJZuMr3o_CaMdg/edit?usp=sharing)
+Date: 2/25
+
+- Modules vs. signatures
+- Safe modules vs. unsafe modules
+- Sharing constraints
 
