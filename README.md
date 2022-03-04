@@ -35,3 +35,10 @@ Date: 2/25
 - Safe modules vs. unsafe modules
 - Sharing constraints
 
+### [Code Review 5: Midterm Review](https://docs.google.com/presentation/d/1jGLgRfXE8KeR0MmNG0vcLoevHoVGl78sh276j52gUfs/edit?usp=sharing)
+Date: 3/4
+
+- Higher-order functions
+- Modules & functors
+- Recursive data types
+
