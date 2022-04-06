@@ -51,3 +51,11 @@ Date: 3/25
 - Mutable data types (useful for PSET 7)
 - Depth first search (DFS) and breadth first search (BFS)
 
+### [Code Review 8: Infinite Data Structures](https://docs.google.com/presentation/d/1bFFog79wbnhLw0FG2kNx6-MBf5ZCOFrjHO4toEEGGGc/edit?usp=sharing)
+Date: 4/1
+
+- Infinite streams
+- Naive vs. Lazy
+- Composing streams
+- Lazy trees
+
