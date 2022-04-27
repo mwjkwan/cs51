@@ -59,3 +59,11 @@ Date: 4/1
 - Composing streams
 - Lazy trees
 
+### [Code Review 9: Object-oriented Programming](https://docs.google.com/presentation/d/1NV8o5z4iKHR3H0-sh11P8VG7W3606bIL4H36B6m88WI/edit?usp=sharing)
+Date: 4/8
+
+### [Code Review 10: Semantics](https://docs.google.com/presentation/d/1nVA5Ce3MoH1aIR7IS47UAbLKy18-P_qhuu4MLSyS3bA/edit?usp=sharing)
+Date: 4/15
+
+### [Code Review 11: Midterm Review](https://docs.google.com/presentation/d/1cktidL2zaSTNAlf9wEq2T7BCe5Q32euasg3HIQ-nxBU/edit?usp=sharing)
+Date: 4/22
